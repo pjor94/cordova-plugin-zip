@@ -4,6 +4,10 @@ original Repo: https://github.com/MobileChromeApps/cordova-plugin-zip.
 added the pull request of @dwolner that add the support to windows 10 platform.
 
 A Cordova plugin to unzip files in Android Ios and Windows 10.
+## Installation
+
+    cordova plugin add https://github.com/pjor94/cordova-plugin-zip.git
+
 ## Usage
 
     zip.unzip(<source zip>, <destination dir>, <callback>, [<progressCallback>]);
